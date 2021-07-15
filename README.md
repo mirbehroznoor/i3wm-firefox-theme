@@ -1,6 +1,8 @@
 # i3wm-firefox-theme
 
-![](i3wm-firefox-theme.png)
+![](i3wm-firefox-theme-1.png)
+
+![](i3wm-firefox-theme-2.png)
 
 The theme is checked on Ubuntu 20.4 LTS with i3wm
 
