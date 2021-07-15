@@ -12,7 +12,7 @@ Thanks to [Firefox i3wm Theme](https://github.com/aadilayub/firefox-i3wm-theme) 
 
 ## Installation
 
-To find Mozilla directory type in url: `about:support`
+Find Mozilla firefox directory type in url: `about:support`
 
 In `Applicaton Basics` look for `Profile Directory` and click the `Open Directory`
 
