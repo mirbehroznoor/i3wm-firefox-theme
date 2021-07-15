@@ -34,6 +34,6 @@ Restart Firefox to enjoy your new theme
 
 # Advice
 
-Remember there are no __one-size-fits-all__ themes 
+Remember there are no __one-size-fits-all__ theme 
 
 Have fun Experimenting 
