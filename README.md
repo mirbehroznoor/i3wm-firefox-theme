@@ -42,6 +42,7 @@ type in url `about:config`
 
 type `toolkit.legacyUserProfileCustomizations.stylesheets` set it to __TRUE__
 
+Restart Firefox
 
 # Advice
 
