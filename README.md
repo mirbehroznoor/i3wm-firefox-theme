@@ -47,4 +47,4 @@ type `toolkit.legacyUserProfileCustomizations.stylesheets` set it to __TRUE__
 
 Remember there are no __one-size-fits-all__ theme 
 
-Have fun Experimenting 
+Have Fun Experimenting 
