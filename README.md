@@ -2,7 +2,7 @@
 
 The theme is checked on Ubuntu 20.4 LTS with i3wm
 
-Thanks to [Firefox i3wm Theme](https://github.com/aadilayub/firefox-i3wm-theme) & [Slick-Fox](https://github.com/Etesam913/slick-fox) for the ideas
+Thanks to [Firefox i3wm Theme](https://github.com/aadilayub/firefox-i3wm-theme) & [Slick-Fox](https://github.com/Etesam913/slick-fox) for the idea 
 
 * `F6` slides down the navigation bar with url selection 
 
@@ -28,9 +28,16 @@ __OR__
 
 `git clone https://github.com/mirbehroznoor/i3wm-firefox-theme`
 
-Paste the `userChrome.css` file in `chrome` folder
+Paste the `userChrome.css` file in `chrome/` folder
 
 Restart Firefox to enjoy your new theme
+
+## In case of failure:
+
+type in url `about:config`
+
+type `toolkit.legacyUserProfileCustomizations.stylesheets` set it to __TRUE__
+
 
 # Advice
 
