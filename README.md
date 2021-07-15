@@ -1,5 +1,7 @@
 # i3wm-firefox-theme
 
+![](i3wm-firefox-theme.png)
+
 The theme is checked on Ubuntu 20.4 LTS with i3wm
 
 Thanks to [Firefox i3wm Theme](https://github.com/aadilayub/firefox-i3wm-theme) & [Slick-Fox](https://github.com/Etesam913/slick-fox) for the idea 
