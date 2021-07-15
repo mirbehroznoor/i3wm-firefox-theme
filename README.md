@@ -26,7 +26,7 @@ Copy and Paste the contents of userChrome.css
 
 __OR__
 
-`git clone https://github.com/mirbehroznoor/i3wm-Mozilla-theme`
+`git clone https://github.com/mirbehroznoor/i3wm-firefox-theme`
 
 Paste the `userChrome.css` file in `chrome` folder
 
