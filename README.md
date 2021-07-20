@@ -44,7 +44,7 @@ mkdir -p chrome
 
 * Go to url `about:config`
 
-* Search `toolkit.legacyUserProfileCustomizations.stylesheets` set it to __TRUE__
+* Search for `toolkit.legacyUserProfileCustomizations.stylesheets` set it to __TRUE__
 
 * Restart the Firefox to enjoy your new theme
 
