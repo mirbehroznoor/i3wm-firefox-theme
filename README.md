@@ -1,51 +1,59 @@
 # i3wm-firefox-theme
 
+The theme is checked on Ubuntu 20.4 LTS with i3wm
+
+It is a customized version of [Firefox i3wm Theme](https://github.com/aadilayub/firefox-i3wm-theme) & a bit of code is from [Slick-Fox](https://github.com/Etesam913/slick-fox). 
+
+
 ![](i3wm-firefox-theme-1.png)
 
 ![](i3wm-firefox-theme-2.png)
 
-The theme is checked on Ubuntu 20.4 LTS with i3wm
 
-Thanks to [Firefox i3wm Theme](https://github.com/aadilayub/firefox-i3wm-theme) & [Slick-Fox](https://github.com/Etesam913/slick-fox) for the idea 
+# Installation 
 
-* `F6` slides down the navigation bar with url selection 
 
-## Installation
+### Mozilla firefox directory  
 
-Find Mozilla firefox directory type in url: `about:support`
+* Go to url: `about:support`
 
-In `Applicaton Basics` look for `Profile Directory` and click the `Open Directory`
+* In section `Applicaton Basics` look for `Profile Directory` and click on the `Open Directory`
 
-Once in directory look for the folder `chrome` if there is no such directory, create one:
+### Chrome Folder
 
-if using Terminal:
+* Once in directory look for the folder `chrome` if there is no such directory, create one, Manually __OR__ Use Terminal:
 
 ```
 mkdir -p chrome
 ```
+### userChrome.css File
 
-Go to the directory `chrome/` and create the file `userChrome.css`
+#### 1. First Way
 
-Copy and Paste the contents of userChrome.css
+* Go to the directory `chrome/` and create the file `userChrome.css`
 
-__OR__
+* Copy and Paste the contents of userChrome.css
 
-`git clone https://github.com/mirbehroznoor/i3wm-firefox-theme`
+#### 2. Second Way
 
-Paste the `userChrome.css` file in `chrome/` folder
+* `git clone https://github.com/mirbehroznoor/i3wm-firefox-theme`
 
-Restart Firefox to enjoy your new theme
+* Paste the `userChrome.css` file in `chrome/` folder
 
-## In case of failure:
+### Firefox permission:
 
-type in url `about:config`
+* Go to url `about:config`
 
-type `toolkit.legacyUserProfileCustomizations.stylesheets` set it to __TRUE__
+* Search `toolkit.legacyUserProfileCustomizations.stylesheets` set it to __TRUE__
 
-Restart Firefox
+* Restart the Firefox to enjoy your new theme
+
+# Keys
+
+* `Ctrl l` or `F6` slides down the navigation bar with url selection
 
 # Advice
 
-Remember there are no __one-size-fits-all__ theme 
+   Remember there are no __one-size-fits-all__ theme 
 
-Have Fun Experimenting 
+   Have Fun Experimenting 
