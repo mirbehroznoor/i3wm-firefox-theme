@@ -40,7 +40,7 @@ mkdir -p chrome
 
 * Paste the `userChrome.css` file in `chrome/` folder
 
-### Firefox permission:
+### Firefox Permission:
 
 * Go to url `about:config`
 
