@@ -5,11 +5,9 @@ The theme is checked on Ubuntu 20.4 LTS with i3wm
 It is a customized version of [Firefox i3wm Theme](https://github.com/aadilayub/firefox-i3wm-theme) & a bit of code is from [Slick-Fox](https://github.com/Etesam913/slick-fox).
 
 
-![](i3wm-firefox-1.png)
+![](i3wm-firefox-01.png)
 
-![](i3wm-firefox-2.png)
-
-![](i3wm-firefox-3.png)
+![](i3wm-firefox-02.png)
 
 
 # Installation
